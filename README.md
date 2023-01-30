@@ -1,5 +1,7 @@
 Edited to prepend element instead of append
 
+https://this-page-intentionally-left-blank.org/
+
 #Clipboard Inserter
 
 A simple addon whose purpose is to automatically insert contents of clipboard into the page.
